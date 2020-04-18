@@ -33,6 +33,7 @@ public class BSJson {
         this.bsJsonV2Listener = bsJsonV2Listener;
         this.method = method;
         loadNow();
+		
 		/*if(Constant.isVerified){
             loadNow();
             if (Constant.enableLogging){
